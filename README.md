@@ -24,8 +24,8 @@ We should also target cities with high growth engines (green on the map) by allo
 ## 📂 Project Resources
 Click the links below to access the full analysis files:
 
-* 📊 **[Download Power BI Dashboard](Superstore_Sales_dataproject_1.pbix)**
-* 📑 **[View Cleaned Dataset](Sample_Superstore.csv)**
+* 📊 **[Download Power BI Dashboard](Superstore_sales_data_project_1.pbix)**
+* 📑 **[View Cleaned Dataset](Superstore_Sales_Dataset.csv)**
 
 ## 🖼️ Dashboard Preview
 ![Executive Summary Dashboard](Superstore_Sales_Dataset.png)
