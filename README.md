@@ -21,9 +21,12 @@ Power BI: Used Power BI for Data modeling, visualization, and interactive report
 Because many cities are at break-even, we should conduct a cost-audit in those regions to convert them into profit centers.
 We should also target cities with high growth engines (green on the map) by allocating marketing budget to them since they have with high growth momentum and high margins.
 
-##Files in this Repository
-Sales_Analysis_Project.pbix: The full interactive Power BI report.
+## 📂 Project Resources
+Click the links below to access the full analysis files:
 
-Dataset.csv: The raw data used for the analysis (Cleaned and Categorized).
+* 📊 **[Download Power BI Dashboard](Superstore_Sales_dataproject_1.pbix)**
+* 📑 **[View Cleaned Dataset](Sample_Superstore.csv)**
 
-Screenshots: High-resolution images of the dashboard for quick viewing.
+## 🖼️ Dashboard Preview
+![Executive Summary Dashboard](Superstore_Sales_Dataset.png)
+
