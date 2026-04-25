@@ -4,6 +4,7 @@
 **Internship Task:** 01
 
 ##Project Overview
+
 *This project involves an an end-to-end Power BI analysis identifying growth opportunities and profitability trends across three product   categories and various US regions. The goal was to move beyond high-level totals to identify exactly where and why the business is        succeeding, and more importantly, where it is stagnating.
 
 ##Key Business-Insights
@@ -14,14 +15,17 @@
  • A large portion of the cities are currently operating at break-even point.
 
 ##Technical Toolkit
+
 *Excel/Google Sheets: Used Excel for some slight cleaning to remove empty rows that would have messed with the data
 *Power BI: Used Power BI for Data modeling, visualization, and interactive reporting and calculated some DAX measurements o calculate business-critical KPIs.
 
 ##Recommendations
+
 *Because many cities are at break-even, we should conduct a cost-audit in those regions to convert them into profit centers.
-*We should also target cities with high growth engines (green on the map) by allocating marketing budget to them since they have with high growth momentum and high margins.
+*We should also target cities with high growth engines (green on the map) by allocating marketing budget to them since they have with      high growth momentum and high margins.
 
 ## 📂 Project Resources
+
 *Click the links below to access the full analysis files:
 
 * 📑 **[View Cleaned Dataset](Superstore_Sales_Dataset.csv)**
