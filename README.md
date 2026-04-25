@@ -10,9 +10,13 @@ This project involves an an end-to-end Power BI analysis identifying growth oppo
 
 ## Key Business-Insights
  • Revenue is highly concentrated among a small number of products
+ 
  • High sales don’t always translate to high profitability
+ 
  • Profitability varies significantly across regions
+ 
  • Sales have shown a significant increase across the years
+ 
  • A large portion of the cities are currently operating at break-even point.
  
 
